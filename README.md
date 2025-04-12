@@ -1,6 +1,6 @@
 # Diário de Midoria - As Crônicas do Éther
 
-Este é um site interativo que conta a história de Midoria, um personagem do RPG Galley do Minecraft. O site foi projetado como um diário pessoal que narra a jornada de transformação de Midoria, desde seus dias de glória como lutador até sua nova vida como um Piglin no mundo do Éther.
+Este é um site interativo que conta a história de Midoria, um personagem do servidor Galley RP do Minecraft. O site foi projetado como um diário pessoal que narra a jornada de transformação de Midoria, desde seus dias de glória como lutador até sua nova vida como um Piglin no mundo do Éther.
 
 ## Características
 
@@ -14,7 +14,7 @@ Este é um site interativo que conta a história de Midoria, um personagem do RP
 - **Balão de Pensamento Interativo**: Sequência animada que mostra os pensamentos do personagem com efeitos visuais e sonoros
 - **Efeitos de Alerta**: Mudanças dinâmicas de cor no balão de pensamento durante os momentos de tensão
 - **Sequência de Animação do Porco**: Aparição e desaparecimento sincronizados com o som e o balão de pensamento
-- **Tela de Créditos Final**: Rolagem de créditos com mensagem personalizada do autor
+- **Tela de Créditos Final**: Rolagem de créditos com mensagem do autor
 - **Notificação de Conquista**: Mensagem de reconhecimento ao completar a leitura do capítulo
 - **Estilo Visual Imersivo**: Design que remete à estética de Minecraft/RPG com temática medieval/fantasia
 
@@ -52,15 +52,6 @@ Este é um site interativo que conta a história de Midoria, um personagem do RP
 - Intersection Observer API para animações baseadas em rolagem
 - Font Awesome para ícones
 - Sistema de áudio para gerenciamento das músicas e efeitos sonoros
-
-## Melhorias Recentes
-
-- Correção da cor do balão de pensamento durante alertas para manter consistência visual
-- Otimização da sequência de animação do porco para não desaparecer antes do balão de pensamento
-- Ajuste da velocidade de rolagem dos créditos para melhor visualização
-- Adição de som para a notificação de conquista ao finalizar o capítulo
-- Revisão da mensagem do autor nos créditos finais
-- Garantia de que os créditos são exibidos completamente antes de desaparecerem
 
 ## Estrutura de Arquivos
 
